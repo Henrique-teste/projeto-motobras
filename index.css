@@ -27,7 +27,7 @@ nav li {
   display:block;
   background-color:#fff;
 }
-header > .container {
+header > .menu-hamburguer {
   display:flex;
   justify-content: space-beteewn;
   align-tems:center;
