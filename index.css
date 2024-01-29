@@ -11,5 +11,5 @@ nav li a {
   text-decoration:none;
 }
 nav {
-  align-items:center;
+  display:inline;
 }
