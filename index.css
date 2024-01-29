@@ -26,4 +26,8 @@ nav li {
   display:block;
   background-color:#fff;
 }
-
+header > .container {
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+}
