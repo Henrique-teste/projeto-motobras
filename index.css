@@ -29,6 +29,4 @@ nav li {
 }
 header > .menu-hamburguer {
   display:flex;
-  justify-content: space-beteewn;
-  align-tems:center;
 }
