@@ -29,4 +29,5 @@ nav li {
 }
 header > .menu-hamburguer {
   display:flex;
+  justify-content:end;
 }
