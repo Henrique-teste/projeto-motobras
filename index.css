@@ -10,6 +10,15 @@
 nav li a {
   text-decoration:none;
 }
-nav {
+nav li {
   display:inline;
+}
+.menu-hamburguer{
+  width:37px;
+}
+.menu-hamburguer span {
+  width:100%
+  margin-bottom:3px;
+  height:3px;
+  display:block;
 }
