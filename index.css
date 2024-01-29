@@ -31,7 +31,7 @@ header > .container {
   justify-content:space-between;
   align-items:center;
 }
-nav {
+nav li {
   padding:10px;
   background-color:#196a56;
 }
