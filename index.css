@@ -26,7 +26,4 @@ nav li {
   display:block;
   background-color:#fff;
 }
-header > .menu-hamburguer span {
-  display:flex;
-  justify-content:space-beteewn;
-}
+
