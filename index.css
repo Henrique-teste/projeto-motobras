@@ -36,3 +36,6 @@ nav {
   background-color:#196a56;
   width:100%;
 }
+nav li a {
+  text-decoration:none;
+}
