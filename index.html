@@ -22,7 +22,7 @@
             <nav>
                 <ul class="container">
                     <li>
-                        <a href="#">Pneus</a>
+                        <a href="#carrosel-pneus">Pneus</a>
                     </li>
                     <li>
                         <a href="#">Relação</a>
@@ -33,6 +33,20 @@
                 </ul>
             </nav>
     </header>
+    <div id="carrosel-pneus">
+        <img src="./img-pneus/pneu-michelin-burgman-s1">
+        <img src="./img-pneus/michelin-titan-traseiro-pilot-street">
+        <img src="./img-pneus/michelin-titan-dianteiro-city-extra">
+        <img src="./img-pneus/michelin-titan-dianteiro-anakke">
+    </div>
+
+
+
+
+
+
+
+    
     <script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
     <script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
     <script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
@@ -41,6 +55,9 @@
         $(document).ready(function(){
         $('.menu-hamburguer').click(function(){
             $('nav').slideToggle();
+        })
+        $('#carrosel').slick({
+            autotrue; true,
         })
         })
     </script>
