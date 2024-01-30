@@ -9,6 +9,7 @@
 }
 header{
   background-color:aqua;
+  padding:10px;
 }
 nav li a {
   text-decoration:none;
