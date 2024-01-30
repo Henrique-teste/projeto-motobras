@@ -45,10 +45,8 @@ nav li a {
   font-size:20px;
 }
 #carrosel-pneus {
-width:1024px;
-height:300px;
+
 }
 #carrosel-pneus img {
-max-height:50%;
-max-width:100%;
+max-width:400px;
 }
